@@ -4,7 +4,9 @@
 
 ## Инструкция
 
-1. **Запустите `main.exe`**:
+1. **Скачайте и запустите `main.exe`**:
+   - [Скачайте](https://github.com/kandlash/deadlock_language_script/releases/tag/deadlock) исполняемый файл и дважды щелкните на него, чтобы запустить программу.
+
 
 2. **Укажите путь до папки `localization`**:
    - Введите путь до папки `localization` в вашей игре Deadlock. Обычно этот путь выглядит так:
