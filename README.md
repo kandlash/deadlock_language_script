@@ -5,7 +5,7 @@
 ## Инструкция
 
 1. **Скачайте и запустите `main.exe`**:
-   - [Скачайте](https://github.com/kandlash/deadlock_language_script/releases/tag/deadlock) исполняемый файл и дважды щелкните на него, чтобы запустить программу.
+   - [Скачайте](https://github.com/kandlash/deadlock_language_script/releases/tag/deadlock2) исполняемый файл и дважды щелкните на него, чтобы запустить программу.
 
 
 2. **Укажите путь до папки `localization`**:
